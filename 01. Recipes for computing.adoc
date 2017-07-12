@@ -1,0 +1,31 @@
+= Recipes
+
+Being computation of equations was the one of main
+driving forces behind the effort to automate, most
+of the early machines resolved around representing
+numbers and basic mathematical operations such as ADD
+and SUBTRACT.
+
+However there is an overlooked aspect of mathematics
+where choice or decision points occur in the procedures
+of performing calculations.
+
+== Ingredants?
+
+So we know that decision, arithamatic operation
+are needed to automate computation.  But how do we
+represent numbers?
+
+As humans we would naturally prefer our decimal system
+as it took a couple of centuries to establish and proven
+quite adept at computation.  However, it is quite difficult
+to invent and produce physical devices that can have 10 basic
+states.
+
+== Electicity
+
+Analog ciruits, graduated values and scales
+
+== Boole and DeMorgan
+
+== Putting boolean and circuits together

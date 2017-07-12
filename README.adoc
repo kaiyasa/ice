@@ -1,3 +1,22 @@
 = ice
 
-Investigating computing evolution
+= Investigating computing evolution
+
+People including myself take computers for granted and
+fail to realize how a computer actually works and the usefulness
+symetry of that knowledge to every day life and problem solving. 
+
+= Why "Computer"?
+
+Before the time of the availibility of these remarkable tools we
+call computers today, a computer was a person whose primary task
+was to solve mathematical equatations.  Naturally mathematians
+performed this task but for large projects and such, it was
+a person who knew produces for doing mathematics and handling
+data to produce conclusions or results.
+
+This was expensive, time consuming, and error prone.  Thus as
+society grew and its complexity increased, the need for 
+computing skills grew and the need for automating these
+tasks.
+
